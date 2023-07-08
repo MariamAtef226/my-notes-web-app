@@ -2,7 +2,7 @@
   "name": "my-notes-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "MariamAtef226.github.io/my-notes-app",
+  "homepage": "MariamAtef226.github.io/my-notes-web-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
